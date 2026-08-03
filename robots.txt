@@ -7,4 +7,3 @@ Disallow: /xmlrpc.php
 Disallow: /go/
 
 Sitemap: https://psychic-advice.com/sitemap.xml
-Sitemap: https://pl.psychic-advice.com/sitemap.xml
